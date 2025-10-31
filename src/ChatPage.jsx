@@ -180,7 +180,7 @@ const ChatPage = () => {
                     }`}
                   >
                     <div className="message-content">
-                      <strong>{msg.sender}: </strong> {msg.text}
+                      <strong> </strong> {msg.text}
                     </div>
                   </div>
                 ))}
